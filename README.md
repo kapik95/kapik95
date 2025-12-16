@@ -12,5 +12,5 @@
 [![](https://visitcount.itsvg.in/api?id=agmnts&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=agmnts&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmnts&layout=compact)
